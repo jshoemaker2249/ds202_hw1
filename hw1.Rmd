@@ -1,0 +1,23 @@
+---
+title: 'Homework #1'
+author: "Jacob Shoemaker, jshoemaker2249"
+date: "January 18, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My Definition of Data Science
+
+I consider data science to be the in-depth quantitative analysis of a specific topic using measurable factors, and to be able to communicate the findings of this analysis effectively. This can range from sports to healthcare, crime to entertainment. There are attributes to collect, model, and predict in all aspects of our life, data science helps us to do that. The University of Cal Berkeley also provides an in-depth explanation of the data science life cycle, found at <https://datascience.berkeley.edu/about/what-is-data-science/> 
+
+
+## My Version of RStudio
+
+
+
+```{r version}
+version
+```
