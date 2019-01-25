@@ -1,0 +1,24 @@
+---
+title: "partner"
+author: "Hongsheng Yin"
+date: "January 25, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+My partner's full name:Jacob Shoemaker
+
+He recently commit his ds202_hw1
+
+hw1.Rmd commit 9650f4b427e622e37264df6cb0656c3fb8c0c494
+
+hw1.html commit 9f556d1861fd67703cb3b21f9e386eb98da70f19
+
+No error found in my partner's hw1.Rmd
+
+One tip: don't create redundant folders when pushing files to github
+
